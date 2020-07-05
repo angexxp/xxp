@@ -1,5 +1,6 @@
 /*
 获取完cookie注释重写
+
 [rewrite_local]
 ^https://app.jf.360.cn/signin/index/index url script-request-header 360_cookie.js
 [mitm]
