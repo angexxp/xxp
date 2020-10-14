@@ -20,7 +20,7 @@ obj = {
     "adam_id": 1000000000,
     "app_item_id": 1000000000,
     "bundle_id": "com.gear.app",
-    "application_version": "2.0.8.0",
+    "application_version": "3.0.2",
     "download_id": 60000000000000,
     "version_external_identifier": 800000000,
     "receipt_creation_date": "2100-01-01 01:01:01 Etc/GMT",
